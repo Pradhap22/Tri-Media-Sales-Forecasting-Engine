@@ -4,7 +4,7 @@ Here’s an updated README with the new project name **"Tri Media Forecasting En
 
 ---
 
-# Tri Media Forecasting Engine
+# Tri Media Sales Forecasting Engine
 
 ## Table of Contents
 - [Introduction](#introduction)
